@@ -1,0 +1,14 @@
+#konten{
+	margin:10px 10px 10px 10px;
+	height:400px;
+	width:735px;
+	float:left;
+	overflow: auto;/* membuat scroll bar di samping */
+	background:#FFFFFF;
+	
+	border-top-left-radius: 20px 20px;
+	border-top-right-radius: 20px 20px;
+	border: 2px solid #CCCCCC;
+
+	
+}	

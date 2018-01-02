@@ -1,0 +1,7 @@
+
+.print-button{ display:none; }
+.print-panel{ display:none; }
+.print-panel{
+	font-size:11px;
+	padding:3px 35px 5px 35px; margin:0px auto; background:#EFEFEF; height:25px;
+}

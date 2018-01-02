@@ -1,0 +1,30 @@
+
+table[border="1"] {
+border-collapse:collapse;
+font:normal 12px Verdana,Arial,Sans-Serif;
+color:#333;
+}
+table[border="1"] tr {
+background:#F0F0F0;
+}
+table[border="1"] th, table[border="1"] td {
+vertical-align:top;
+padding:5px 5px;
+border:2px solid #fff;
+}
+table[border="1"] tr:nth-child(even) {
+background:#DEDEDE;
+}
+table[border="1"] th {
+background:#4A6D67;
+color:#FFFFFF;
+font-weight:bold;
+}
+
+
+
+
+
+a:link {
+	text-decoration: none;
+}
